@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to any partner to join my private projects
 - 📫 How to reach me ly.sitthykun@gmail.com
-- Blog: https://karajojo.com
+- Blog: https://sitthykun.com
 - Experiences: Python, Nodejs, PHP, RDBMS(PostgreSQL, MySQL, MS Server, Oracle, ..etc), NoSQL(MongoDB, CacheDB, RealDB, ...etc), Memory(Redis, memcache, ...etc)
 
 - Outside box:
