@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karajojo
+- 👋 Hi, I’m @sitthykun
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to any partner to join my private projects
