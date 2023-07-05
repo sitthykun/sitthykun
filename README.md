@@ -11,7 +11,7 @@
   - Writer
   - Philosopher
   - Inventor
-  - Social Analyser
+  - Social Analyst 
   - Entrepreneur
 
 <!---
