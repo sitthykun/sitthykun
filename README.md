@@ -9,7 +9,12 @@
   - NoSQL(MongoDB, CacheDB, RealDB, ...etc);
   - Memory(Redis, memcache, ...etc);
   - Security seeker, Bug hunter;
-- Others: Project Director, Business Strategist, Plan Maker, ICT HR Specialist, Lecturer ...etc
+- Others:
+  - Project Director
+  - Business Strategist
+  - Plan Maker
+  - ICT HR Specialist
+  - Lecturer ...etc
 
 - Outside box:
   - Writer
