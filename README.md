@@ -5,11 +5,12 @@
 - 📫 How to reach me ly.sitthykun@gmail.com
 - Blog: https://sitthykun.com
 - Experiences: Python, Nodejs, PHP, RDBMS(PostgreSQL, MySQL, MS Server, Oracle, ...etc), NoSQL(MongoDB, CacheDB, RealDB, ...etc), Memory(Redis, memcache, ...etc), Security seeker, Bug hunter.
-- Others: Project Director, Business Strategist, Plan Maker, HR, Trainer, Lecturer, ...etc
+- Others: Project Director, Business Strategist, Plan Maker, ICT HR Specialist, Lecturer ...etc
 
 - Outside box:
   - Writer
   - Philosopher
+  - Youtuber
   - Inventor
   - Social Analyst 
   - Entrepreneur
