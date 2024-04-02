@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sitthykun
 - In the technology industry, you will call me a wrong name, the best thing to recognize me is, masakokh.
 - 👀 I’m interested in AI
-- 🌱 Fun time: invent someting new or improve the current solution
+- 🌱 Fun time: invent or improve existing
 - Java: my current challeging
 - Blog: https://sitthykun.com
 - Experiences:
