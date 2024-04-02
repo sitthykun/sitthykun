@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sitthykun
 - In the technology industry, you will call me a wrong name, the best thing to recognize me is, masakokh.
+- My sample data test are, thyda and dara.
 - 👀 I’m interested in AI
 - Java is my current challenge
 - 🌱 Fun time: invent or improve existing
