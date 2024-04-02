@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sitthykun
 - In the technology industry, you will call me a wrong name, the best thing to recognize me is, masakokh.
 - 👀 I’m interested in AI
+- Java is my current challenge
 - 🌱 Fun time: invent or improve existing
-- Java: my current challeging
 - Blog: https://sitthykun.com
 - Experiences:
   - Python, Nodejs, PHP, RDBMS(PostgreSQL, MySQL, MS Server, Oracle, ...etc);
