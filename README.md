@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sitthykun
+- In the technology industry, you will call me a wrong name, the best thing to recognize me is, masakokh.
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to any partner to join my private projects
-- 📫 How to reach me ly.sitthykun@gmail.com
+- 🌱 Fun time: invent someting new or improve the current solution
 - Blog: https://sitthykun.com
 - Experiences:
   - Python, Nodejs, PHP, RDBMS(PostgreSQL, MySQL, MS Server, Oracle, ...etc);
@@ -14,11 +13,11 @@
   - Business Strategist
   - Plan Maker
   - ICT HR Specialist
-  - Lecturer ...etc
+  - Programming Lecturer ...etc
 
-- Outside box:
-  - Writer
+- Beside my box:
   - Philosopher
+  - Book/Blog Writer
   - Youtuber
   - Inventor
   - Social Analyst 
